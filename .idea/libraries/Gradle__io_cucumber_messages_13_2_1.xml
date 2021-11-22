@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.cucumber:messages:13.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/messages/13.2.1/ae808fccb89f1b92aa5c7db73c9696c1bd21d7c2/messages-13.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/messages/13.2.1/68fee61f75a3d5b94877df6c204179b24bf43461/messages-13.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
